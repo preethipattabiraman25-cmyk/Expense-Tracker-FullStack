@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Salary",
+    "amount": 100000,
+    "type": "Income"
+  },
+  {
+    "id": 1783149137371,
+    "title": "Electricity Bill",
+    "amount": 1500,
+    "type": "Expense"
+  },
+  {
+    "id": 1783152824214,
+    "title": "Movie",
+    "amount": 500,
+    "type": "Expense"
+  }
+]
